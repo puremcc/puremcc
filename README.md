@@ -2,8 +2,6 @@ Holon. Stoic. Maven. Poetic Naturalist.
 
 Every great day begins with a cup of coffee ☕️
 
-The tardigrade is my spirit animal.
-
 ![](https://file.cosmictardigrade.com/tardigrade_ride.png)
 
 <!---
