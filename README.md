@@ -1,4 +1,4 @@
-Holon. Stoic. Maven. Poetic Naturalist.
+Holon. Stoic. Maven.
 
 Every great day begins with a cup of coffee ☕️
 
